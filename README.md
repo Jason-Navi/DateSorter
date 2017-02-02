@@ -4,7 +4,7 @@ Then it prints on the left side of the GUI the unsorted dates and the right side
 Also prints out any invalid dates entered as a Date212 Exception as well as any combination of chars and number. 
 Prints dates out in mm/dd/yyyy order.
 
-This project was created to sort dates by using both a linked list sorting and a treeMap to sort. 
+This project was created to sort dates by using both a Linked-List created from scratch and a TreeMap to sort. 
 
 You can type any series of dates in the textfile in yyyy/mm/dd order and it will run properly. 
 
