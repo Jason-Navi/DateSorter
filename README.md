@@ -8,8 +8,10 @@ This project was created to sort dates by using both a linked list sorting and a
 
 You can type any series of dates in the textfile in yyyy/mm/dd order and it will run properly. 
 
-For instance, typing in the textfile named "inputs": 1998/02/6, 1994/11/13, 1998/01/10 will display the following. 
+For instance, typing in the textfile named "inputs": 1998/02/6, 1994/11/13, 1998/01/10 will display the following on different lines. 
 
-Left-hand side of GUI: 02/6/1998    Right-hand side of GUI: 11/13/1994        
-                       11/13/1994                            01/10/1998
-                       01/10/1998                            02/06/1998   
+Left-hand side of GUI: 02/6/1998, 11/13/1994, 01/10/1998  
+
+Right-hand side of GUI: 11/13/1994, 01/10/1998, 02/06/1998       
+                                                   
+                                                     
