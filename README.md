@@ -1,4 +1,4 @@
-# DateSorter
+# TreeMapDateSorter
 Author: Jason Navi
 
 Email: jnavi1002@gmail.com
