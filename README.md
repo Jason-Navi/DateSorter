@@ -10,9 +10,9 @@ Prints dates out in mm/dd/yyyy order.
 
 IDE used: BlueJ
 
-Libraries used: Java.util, javax.swing, java.awt, java.awt.event, java.io, java.io.BufferedReader, java.io.FileInputStreamReader, java.ioInputStreamReader, java.IOException
+Libraries used: Java.util, javax.swing, java.awt, java.awt.event, java.io, java.io.BufferedReader, java.io.FileInputStreamReader, java.ioInputStreamReader, java.IOException, java.util.Comparator
 
-Classes used: DateNode, DateGUI, SortedDateList, FileMenuHandler, TextFileInput, IllegalDate212Exception, UnsortedDateList, Date212, dateRunner, and DateList(abstract)
+Classes used: DateNode, DateGUI, FileMenuHandler, TextFileInput, IllegalDate212Exception, UnsortedDateList, Date212, Date212Comparator, dateRunner, and DateList(abstract)
 
 How to run: For instance, typing in the textfile named "inputs": 1998/02/6, 1994/11/13, 1998/01/10 will display the following on different lines. Note: You can type any series of dates in the textfile in yyyy/mm/dd order and it will run properly. 
 
